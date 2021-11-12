@@ -11,7 +11,14 @@ Implements
  - an user-specific rating-prediction (using cosine similarity) and 
  - an user-based similarity recommender
  
- 
+# Technologies
+Project is created with:
+- pandas 1.3.3
+- matplotlib 3.4.2
+- seaborn 0.11.2
+- sklearn 0.24.2 
+- thefuzz 0.19.0
+
 # Data
 This dataset (ml-latest-small) describes 5-star rating and free-text tagging activity from [MovieLens](http://movielens.org), a movie recommendation service. It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.
 
